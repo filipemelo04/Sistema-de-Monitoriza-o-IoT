@@ -63,5 +63,4 @@ O sistema foi desenhado de forma modular e integrada:
 ## 👤 Autor
 
 **Filipe Araújo Melo**  
-📧 Email: [melofilipe4@hotmail.com]  
-💼 LinkedIn: [linkedin.com/in/teu-perfil](#)
+📧 Email: melofilipe4@hotmail.com
